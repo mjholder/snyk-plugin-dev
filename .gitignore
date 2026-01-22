@@ -9,7 +9,7 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-node_modules/*
+node_modules/
 
 # Coverage directory generated when running tests with coverage
 coverage
